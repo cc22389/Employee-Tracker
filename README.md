@@ -6,7 +6,7 @@ An interface that makes it easy for non-developers to view and interact with inf
 
 ## Links
 * **Repository** -  https://github.com/cc22389/Employee-Tracker.git
-* **Video demonstration** - 
+* **Video demonstration** - https://drive.google.com/file/d/14wjKzaV6LwEwBfdN3TH6Ot46xVHQKc2-/view
 
 ## Installation
 
